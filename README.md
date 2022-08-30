@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Chace 👋
 
-<!--
-**caciulla/caciulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical Writer settling into a career change
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on contributing to Open Source projects
+- 🌱 I’m currently learning API Documentation
+- 👯 I’m looking to collaborate on Open API docs
+- 🤔 I’m looking for help finding 
+- 📫 How to reach me: chace.a.ciulla@gmail.com
+- ⚡ Fun fact: CS50x lead me here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## I like working with: 
+- Open API
+- VS Code
+- Postman
+- Stoplight
+- Swagger UI
+
+## Learning/Semi-literate in:
+- C
+- JSON
+- YAML
+- Javascript
+
+> If you have an Open Source project that needs help with documentation——or you have some ideas about programs, languages, or something else I could learn that would help me on my path——my email is open :)
+
 -->
