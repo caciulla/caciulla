@@ -1,4 +1,4 @@
-### Hi there, I'm Chace 👋
+### Hello, I'm Chace 👋
 
 I'm a Technical Writer settling into a career change
 
