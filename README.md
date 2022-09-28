@@ -1,6 +1,6 @@
 ### Hello, I'm Chace 👋
 
-I'm a Technical Writer settling into a career change
+I'm a Technical Writer enjoying a new career path ☀️
 
 - 🔭 I’m working on contributing to Open Source projects
 - 🌱 I’m currently learning API Documentation
