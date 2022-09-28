@@ -16,6 +16,7 @@ I'm a Technical Writer settling into a career change
 - Postman
 - Stoplight
 - Swagger UI
+- Git
 
 ## Languages [Libraries/Frameworks/Runtimes] I'm familiar with:
 - C
