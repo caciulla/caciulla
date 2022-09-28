@@ -5,7 +5,7 @@ I'm a Technical Writer enjoying a new career path ☀️
 - 🔭 I’m working on contributing to Open Source projects
 - 🌱 I’m currently learning API Documentation
 - 👯 I’m looking to collaborate on Open API docs
-- 🤔 I’m looking for help collaborating
+- 🤔 I’m looking for help collaborating and advice on what to learn next 
 - 📫 How to reach me: chace.a.ciulla@gmail.com
 - ⚡ Fun fact: CS50x lead me here
 
