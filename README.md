@@ -17,6 +17,7 @@ I'm a Technical Writer enjoying a new career path ☀️
 - Stoplight
 - Swagger UI
 - Git
+- Hugo
 
 ## Languages [Libraries/Frameworks/Runtimes] I'm familiar with:
 - C
