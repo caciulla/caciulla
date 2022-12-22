@@ -1,6 +1,6 @@
 ### Hi, I'm Chace 👋
 
-I was an amazing bartender. Now I'm a Technical Writer looking to enjoy a new career path ☀️
+I was an amazing bartender, now I'm an aspiring Technical Writer looking to enjoy a new career path ☀️
 
 - 🔭 I’m working on a few static web pages using Hugo.
 - 🌱 I’m just learned Confluence and Jira.
