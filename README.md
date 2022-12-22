@@ -3,8 +3,8 @@
 I was an amazing bartender. Now I'm a Technical Writer looking to enjoy a new career path ☀️
 
 - 🔭 I’m working on a few static web pages using Hugo.
-- 🌱 I’m currently learning Confluence and Jira.
-- 👯 I’m looking to join a team in the SaaS and Docs as code.
+- 🌱 I’m just learned Confluence and Jira.
+- 👯 I’m looking to join a great team working in SaaS using docs as code.
 - 🤔 I’m looking for advice on what to programs to learn next.
 - 📫 How to reach me: chace.a.ciulla@gmail.com
 - ⚡ Fun fact: CS50x led me here
