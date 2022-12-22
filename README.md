@@ -1,23 +1,24 @@
 ### Hi, I'm Chace 👋
 
-I'm a Technical Writer enjoying a new career path ☀️
+I was an amazing bartender. Now I'm a Technical Writer looking to enjoy a new career path ☀️
 
-- 🔭 I’m working on contributing to Open Source projects
-- 🌱 I’m currently learning Javascript and API Documentation
-- 👯 I’m looking to collaborate on Open API docs
-- 🤔 I’m looking for help collaborating and advice on what to learn next 
+- 🔭 I’m working on a few static web pages using Hugo.
+- 🌱 I’m currently learning Confluence and Jira.
+- 👯 I’m looking to join a team in the SaaS and Docs as code.
+- 🤔 I’m looking for advice on what to programs to learn next.
 - 📫 How to reach me: chace.a.ciulla@gmail.com
-- ⚡ Fun fact: CS50x lead me here
+- ⚡ Fun fact: CS50x led me here
 
 ## I like working with: 
 - VS Code
 - Markdown
 - Open API
 - Postman
-- Stoplight
 - Swagger UI
 - Git
 - Hugo
+- Confluence
+- Jira
 
 ## Languages [Libraries/Frameworks/Runtimes] I'm familiar with:
 - C
