@@ -2,7 +2,7 @@
 
 I was an amazing bartender, now I'm an aspiring Technical Writer looking to enjoy a new career path ☀️
 
-- 🔭 I’m working on a few static web pages using Hugo.
+- 🔭 I’m working on learning AsciiDoc!
 - 🌱 I’m just learned Confluence and Jira.
 - 👯 I’m looking to join a great team working in SaaS using docs as code.
 - 🤔 I’m looking for advice on what to programs to learn next.
